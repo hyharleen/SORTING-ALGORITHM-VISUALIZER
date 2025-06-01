@@ -102,8 +102,8 @@ body {
   transition: all 0.4s ease-in;
 }
 .cell.done {
-  background-color: #9cec5b;
-  border-color: #9cec5b;
+  background-color: #085605;
+  border-color: #085605;
   color: white;
   transition: all 0.4s ease-out;
 }
